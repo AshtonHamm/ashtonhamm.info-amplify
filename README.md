@@ -1,4 +1,4 @@
-# ashtonhamm.info-amplify <br/>
+# ashtonhamm.info <br/>
 ## Personal site using AWS Amplify <br/>
 ### Started: July 20, 2021 <br/>
 
